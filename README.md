@@ -8,6 +8,6 @@ VERSÃO
 
 INSTALAÇÃO
 --
-Apache 2.2
-PHP 5.4
+  Apache 2.2
+  PHP 5.4
 
